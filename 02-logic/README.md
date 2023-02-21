@@ -6,7 +6,8 @@ Lab 2: INSERT_YOUR_FIRSTNAME INSERT_YOUR_LASTNAME
 
    Greater than:
 
-   ![K-maps](images/kmap_empty.png)
+   ![mario-png-super-mario-3d-world-mario-11562893764idzdhhbilt](https://user-images.githubusercontent.com/124742733/220467155-84b24361-e16e-4440-968b-c6a2da14ef50.png)
+
 
    Less than:
 
