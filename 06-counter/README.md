@@ -1,4 +1,4 @@
-# Lab 6: INSERT_YOUR_FIRSTNAME INSERT_YOUR_LASTNAME
+# Lab 6: Brokeš Jan
 
 ### Bidirectional counter
 
@@ -27,7 +27,7 @@
 
 2. Screenshot with simulated time waveforms. Test: (a) reset, (b) counter direction, (c) enable. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
-   ![your figure]()
+  ![image](https://user-images.githubusercontent.com/124742733/225287823-186e34c0-3f25-4731-9498-0d9d5a29e48a.png)
 
 ### Two counters
 
