@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Lab 2: INSERT_YOUR_FIRSTNAME INSERT_YOUR_LASTNAME
+# Lab 2: Brokeš Jan
 
 ### 2-bit comparator
 =======
