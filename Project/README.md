@@ -80,7 +80,7 @@ send_out - výstupní signál
 
 ## Instrukce pro použití
 
-Pro použití naší verze řešení je třeba do obou desek správně nahrát příslušné programy. Poté V desce (kodér) nastavujeme písmenko (viz. Teoretický popis a funkčnost), a tlačítkem BTNC odešleme. Po každým poslání písmenka vyresertujeme desku tlačítkem BTNU, abychom mohli nastavovat další kombinace pro další písmenko.Po odeslání se nám na dekodéru objeví odeslaná kombinace.
+Pro použití naší verze řešení je třeba do obou desek správně nahrát příslušné programy. Poté v desce (Vysílač) nastavujeme písmenko (viz. Teoretický popis a funkčnost), a tlačítkem BTNC odešleme. Po každým poslání písmenka vyresertujeme desku tlačítkem BTNU, abychom mohli nastavovat další kombinace pro další písmenko.Po odeslání se nám na přijímači objeví odeslaná kombinace.
 
 
 ## Instruktážní video
