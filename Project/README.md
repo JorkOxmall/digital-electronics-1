@@ -10,7 +10,7 @@
 
 Celkové naše řešení vysílače zkráceně spočívá v tom, že pro každé písmenko nastavíme určitou kombinaci, kterou provádíme pomocí SW (switch), a to tak, že je máme rozdělené po dvou a když je jenom jedna ze dvou sepnutá, tak to značí tečku, když jsou obě sepnuté, tak to značí čárku. Takto my definujeme určité písmenko a to poté pomocí tlačítka BTNC odešleme a dalším tlačítkem BTNU resetujeme. Odeslaný signál je přiveden na pin jako signál, ve kterém je tečka dlouhá 2s, čárka 4s a mezera 6s.
 
-Dekodér je řešen tak, že snímáme ve vstupním signálu jak dlouhé jsou úseky a podle toho určíme jestli se jedná o tečku, čárku či mezeru.
+Přijímač je řešen tak, že snímáme ve vstupním signálu jak dlouhé jsou úseky a podle toho určíme jestli se jedná o tečku, čárku či mezeru.
 
 ## Popis hardwaru
 
@@ -45,9 +45,9 @@ Constrain file: [zde](https://github.com/JorkOxmall/digital-electronics-1/blob/m
 
 příjímač:
 
-Design source: [zde](https://github.com/JorkOxmall/digital-electronics-1/blob/main/Project/p%C5%99%C3%ADj%C3%ADma%C4%8D/sources_1/new/decoder2.vhd)
-Testbench source: [zde](https://github.com/JorkOxmall/digital-electronics-1/blob/main/Project/p%C5%99%C3%ADj%C3%ADma%C4%8D/sim_1/new/tb.vhd)
-Top file: [zde](https://github.com/JorkOxmall/digital-electronics-1/blob/main/Project/p%C5%99%C3%ADj%C3%ADma%C4%8D/sources_1/new/TOP.vhd)
+Design source: [zde](https://github.com/JorkOxmall/digital-electronics-1/blob/main/Project/p%C5%99%C3%ADj%C3%ADma%C4%8D/sources_1/new/decoder2.vhd)      
+Testbench source: [zde](https://github.com/JorkOxmall/digital-electronics-1/blob/main/Project/p%C5%99%C3%ADj%C3%ADma%C4%8D/sim_1/new/tb.vhd)      
+Top file: [zde](https://github.com/JorkOxmall/digital-electronics-1/blob/main/Project/p%C5%99%C3%ADj%C3%ADma%C4%8D/sources_1/new/TOP.vhd)     
 Constrain file: [zde](https://github.com/JorkOxmall/digital-electronics-1/blob/main/Project/p%C5%99%C3%ADj%C3%ADma%C4%8D/constrs_1/new/nexys%20a7-50t.xdc)
 
 
