@@ -36,13 +36,19 @@ Celková funkčnost designu spočívá čistě v tom, že my nastavíme nějakou
 
 ### Odkazy na soubory: 
 vysílač:
+
 Design source: [zde](https://github.com/JorkOxmall/digital-electronics-1/blob/main/Project/Soubory%20projektu%20-%20Vivavo/morse%20code/morse%20code.srcs/sources_1/new/morse_try.vhd)     
 Testbench source: [zde](https://github.com/JorkOxmall/digital-electronics-1/blob/main/Project/Soubory%20projektu%20-%20Vivavo/morse%20code/morse%20code.srcs/sim_1/new/morse_TB.vhd)     
 Top file: [zde](https://github.com/JorkOxmall/digital-electronics-1/blob/main/Project/Soubory%20projektu%20-%20Vivavo/morse%20code/morse%20code.srcs/sources_1/new/TOP.vhd)     
 Constrain file: [zde](https://github.com/JorkOxmall/digital-electronics-1/blob/main/Project/Soubory%20projektu%20-%20Vivavo/morse%20code/morse%20code.srcs/constrs_1/new/cnst.xdc)
+
+
 příjímač:
 
-Design source: [zde](https://github.com/JorkOxmall/digital-electronics-1/blob/main/Project/p%C5%99%C3%ADj%C3%ADma%C4%8D/constrs_1/new/nexys%20a7-50t.xdc)
+Design source: [zde](https://github.com/JorkOxmall/digital-electronics-1/blob/main/Project/p%C5%99%C3%ADj%C3%ADma%C4%8D/sources_1/new/decoder2.vhd)
+Testbench source: [zde](https://github.com/JorkOxmall/digital-electronics-1/blob/main/Project/p%C5%99%C3%ADj%C3%ADma%C4%8D/sim_1/new/tb.vhd)
+Top file: [zde](https://github.com/JorkOxmall/digital-electronics-1/blob/main/Project/p%C5%99%C3%ADj%C3%ADma%C4%8D/sources_1/new/TOP.vhd)
+Constrain file: [zde](https://github.com/JorkOxmall/digital-electronics-1/blob/main/Project/p%C5%99%C3%ADj%C3%ADma%C4%8D/constrs_1/new/nexys%20a7-50t.xdc)
 
 
 
